@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000';
+const API_URL = import.meta.env.VITE_API_URL || 'http://51.20.32.246:5000';
 const ADMIN_TOKEN = import.meta.env.VITE_ADMIN_TOKEN;
 
 // Create axios instance
